@@ -18,6 +18,8 @@ public class Main {
         System.out.println("-------------------------");
         accion.disminuirValor(2.0);
         accion.alertaBaja();
+        //sincronizado con github
+        
 
 }
 }
